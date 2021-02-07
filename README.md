@@ -45,7 +45,7 @@ Please let us know if you are going and if you are interested in attending (or h
 
 [Supply Chain Classic Game](https://github.com/SupplyChainSandbox/classicgame)
 
-[[Supply Chain Classic Game](https://github.com/SupplyChainSandbox/trivia)
+[Supply Chain Classic Game](https://github.com/SupplyChainSandbox/trivia)
 
 [Supply Chain CTF](https://github.com/SupplyChainSandbox/SupplyChainCTF)
 
