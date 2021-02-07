@@ -1,7 +1,5 @@
 # SupplychainSandbox - Sipping Bill of Materials
 
-[![Join the chat at https://gitter.im/SupplyChainSandbox/SupplychainSandboxSipping](https://badges.gitter.im/SupplyChainSandbox/SupplychainSandboxSipping.svg)](https://gitter.im/SupplyChainSandbox/SupplychainSandboxSipping?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 
 ## Quick links
 
